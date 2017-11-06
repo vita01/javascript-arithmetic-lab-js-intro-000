@@ -30,5 +30,5 @@ function dec(n){
 function makeInt(n){}
 function preserveDecimal(n){
 
-  return perseInt(n);
+  return perseFloat(n);
 }
